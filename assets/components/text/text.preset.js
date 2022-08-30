@@ -1,13 +1,13 @@
 import { colors, typography } from '../theme/index'
 
 const BASE = {
-    // fontFamily: typography.primary,
+    fontFamily: typography.primary,
     fontSize: 15,
     color: colors.black
 }
 
 const BOLD = {
-    // fontFamily: typography.bold,
+    fontFamily: typography.bold,
     color: colors.black
 }
 
@@ -43,7 +43,7 @@ export const presets = {
         color: colors.grey
     },
     overline: {
-        // fontFamily: typography.regular,
+        fontFamily: typography.regular,
         fontSize: 14,
     },
     subtitle: {

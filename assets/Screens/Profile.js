@@ -1,4 +1,4 @@
-import {  StyleSheet, View, Image, Button } from 'react-native'
+import {  StyleSheet, View, Image, Text as RNText, Button } from 'react-native'
 import React from 'react';
 import { spacing } from '../components/theme/spacing';
 import Text from '../components/text/text';
